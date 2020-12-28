@@ -14,7 +14,7 @@ import Snackbar from "components/Snackbar/Snackbar.js";
 import Done from "@material-ui/icons/Done";
 import ReportProblem from "@material-ui/icons/ReportProblem";
 import Container from "@material-ui/core/Container";
-
+import FileBase from 'react-file-base64';
 function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
@@ -58,6 +58,7 @@ export default function SignUp(props) {
     name: "",
     phone_number: "",
     password: "",
+    img:"",
   });
 
   const openSignIn = () => {
@@ -198,6 +199,11 @@ export default function SignUp(props) {
                 }
               />
             </Grid>
+            <FileBase
+                  type="file"
+                  multiple={false}
+                  onDone={({base64}) =>setstudentinfo({...studentinfo,img:base64.split(",")[1]})} 
+                />
           </Grid>
           <Button
             type="submit"

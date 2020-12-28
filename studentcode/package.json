@@ -19,6 +19,7 @@
     "react-chartist": "0.14.3",
     "react-chartjs-2": "^2.10.0",
     "react-dom": "16.13.1",
+    "react-file-base64": "^1.0.3",
     "react-google-maps": "9.4.5",
     "react-minimal-pie-chart": "^8.0.1",
     "react-router-dom": "5.2.0",

@@ -1,4 +1,4 @@
-## [App Live here](mainpageempower.netlify.app)
+## [App Live here](https://mainpageempower.netlify.app/)
 
 ## [Live Demo Video](https://youtu.be/T7amNQxGk4E)
 
@@ -34,15 +34,15 @@ Quick start option:
 
 # Main Page
 
-[![Main Page](teachercode/src/assets/github/mainpage.png)](https://learnzillaedu.netlify.app/)
+[![Main Page](teachercode/src/assets/github/mainpage.png)](https://mainpageempower.netlify.app/)
 
 # Full Page
 
-[![Full Page](teachercode/src/assets/github/fullpage.png)](https://learnzillaedu.netlify.app/)
+[![Full Page](teachercode/src/assets/github/fullpage.png)](https://mainpageempower.netlify.app/)
 
 # Login Options
 
-[![Login Options](teachercode/src/assets/github/loginoptions.png)](https://learnzillaedu.netlify.app/)
+[![Login Options](teachercode/src/assets/github/loginoptions.png)](https://mainpageempower.netlify.app/)
 
 ###
 
@@ -50,56 +50,56 @@ Quick start option:
 
 # Signin Page
 
-[![Teacher SignIn](teachercode/src/assets/github/signin-teacher.png)](https://learnzilla-teacher.netlify.app/)
+[![Teacher SignIn](teachercode/src/assets/github/signin-teacher.png)](https://mainpageempower.netlify.app/)
 
 # Signup Page
 
-[![Teaccher SignIn](teachercode/src/assets/github/signup-teacher.png)](https://learnzilla-teacher.netlify.app/)
+[![Teaccher SignIn](teachercode/src/assets/github/signup-teacher.png)](https://mainpageempower.netlify.app/)
 
 # Home page
 
-[![Teacher Home Page](teachercode/src/assets/github/home-teacher.png)](https://learnzilla-teacher.netlify.app/)
+[![Teacher Home Page](teachercode/src/assets/github/home-teacher.png)](https://mainpageempower.netlify.app/)
 
 # Inside Class
 
-[![Teacher Inside Class](teachercode/src/assets/github/inclass-teacher.png)](https://learnzilla-teacher.netlify.app/)
+[![Teacher Inside Class](teachercode/src/assets/github/inclass-teacher.png)](https://mainpageempower.netlify.app/)
 
 # Profile Page
 
-[![Teacher Profile](teachercode/src/assets/github/profile-teacher.png)](https://learnzilla-teacher.netlify.app/)
+[![Teacher Profile](teachercode/src/assets/github/profile-teacher.png)](https://mainpageempower.netlify.app/)
 
 # Time Table Page
 
-[![Teacher Time Table](teachercode/src/assets/github/timetable-teacher.png)](https://learnzilla-teacher.netlify.app/)
+[![Teacher Time Table](teachercode/src/assets/github/timetable-teacher.png)](https://mainpageempower.netlify.app/)
 
 ###
 
 # [Student Dashboard](https://learnzilla-student.netlify.app/)
 
 # Signin Page
-[![Student SignIn](teachercode/src/assets/github/signin-student.png)](https://learnzilla-student.netlify.app/)
+[![Student SignIn](teachercode/src/assets/github/signin-student.png)](https://mainpageempower.netlify.app/)
 
 # Signup Page
 
-[![Student SignIn](teachercode/src/assets/github/signup-student.png)](https://learnzilla-student.netlify.app/)
+[![Student SignIn](teachercode/src/assets/github/signup-student.png)](https://mainpageempower.netlify.app/)
 
 # Home Page
 
-[![Student Home Page](teachercode/src/assets/github/home-student.png)](https://learnzilla-student.netlify.app/)
+[![Student Home Page](teachercode/src/assets/github/home-student.png)](https://mainpageempower.netlify.app/)
 
 # Inside Class
 
-[![Student Inside Class](teachercode/src/assets/github/inclass-student1.png)](https://learnzilla-student.netlify.app/)
+[![Student Inside Class](teachercode/src/assets/github/inclass-student1.png)](https://mainpageempower.netlify.app/)
 
-[![Student Inside Class](teachercode/src/assets/github/inclass-student2.png)](https://learnzilla-student.netlify.app/)
+[![Student Inside Class](teachercode/src/assets/github/inclass-student2.png)](https://mainpageempower.netlify.app/)
 
 # Profile Page
 
-[![Student Profile](teachercode/src/assets/github/profile-student.png)](https://learnzilla-student.netlify.app/)
+[![Student Profile](teachercode/src/assets/github/profile-student.png)](https://mainpageempower.netlify.app/)
 
 # Time Table Page
 
-[![Student Time Table](teachercode/src/assets/github/timetable-student.png)](https://learnzilla-student.netlify.app/)
+[![Student Time Table](teachercode/src/assets/github/timetable-student.png)](https://mainpageempower.netlify.app/)
 
 ## Team Members
 <img src="teachercode/src/assets/img/tejas.png" width="120" height="120"> <img src="teachercode/src/assets/img/aditya.png" width="120" height="120"> <img src="teachercode/src/assets/img/rishabh.png" width="120" height="120"> <img src="teachercode/src/assets/img/shreyas.png" width="120" height="120">

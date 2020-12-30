@@ -4,6 +4,8 @@
 
 ## [Live Demo Video](https://youtu.be/T7amNQxGk4E)
 
+## [Project Presentation](https://docs.google.com/presentation/d/1B3r_lfTLOAj1xepkv5J-SL9lHr2_17NJdzv9eWx95j0/edit?usp=sharing)
+
 ###
 
 ## Quick Start

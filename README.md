@@ -62,7 +62,7 @@ Quick start option:
 
 # Inside Class
 
-![Teacher Inside Class](https://github.com/Tejas1510/EmPower/blob/master/teachercode/src/assets/img/insideclass.png)(https://mainpageempower.netlify.app/)
+[![Teacher Inside Class](https://github.com/Tejas1510/EmPower/blob/master/teachercode/src/assets/img/maininsideclass.png)](https://mainpageempower.netlify.app/)
 
 # Profile Page
 
@@ -95,13 +95,13 @@ Quick start option:
 
 # Home Page
 
-[![Student Home Page](teachercode/src/assets/github/home-student.png)](https://mainpageempower.netlify.app/)
+[![Student Home Page](teachercode/src/assets/github/mainstudentdashboard.png)](https://mainpageempower.netlify.app/)
 
 # Inside Class
 
-[![Student Inside Class](teachercode/src/assets/github/inclass-student1.png)](https://mainpageempower.netlify.app/)
+[![Student Inside Class](teachercode/src/assets/github/mainprogress.png)](https://mainpageempower.netlify.app/)
 
-[![Student Inside Class](teachercode/src/assets/github/inclass-student2.png)](https://mainpageempower.netlify.app/)
+[![Student Inside Class](teachercode/src/assets/github/mainattendance.png)](https://mainpageempower.netlify.app/)
 
 # Profile Page
 

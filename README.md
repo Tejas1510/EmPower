@@ -58,11 +58,11 @@ Quick start option:
 
 # Home page
 
-[![Teacher Home Page](teachercode/src/assets/github/home-teacher.png)](https://mainpageempower.netlify.app/)
+[![Teacher Home Page](https://github.com/Tejas1510/EmPower/blob/master/teachercode/src/assets/img/maindashboard.png)](https://mainpageempower.netlify.app/)
 
 # Inside Class
 
-[![Teacher Inside Class](teachercode/src/assets/github/inclass-teacher.png)](https://mainpageempower.netlify.app/)
+![Teacher Inside Class](https://github.com/Tejas1510/EmPower/blob/master/teachercode/src/assets/img/insideclass.png)(https://mainpageempower.netlify.app/)
 
 # Profile Page
 
@@ -71,6 +71,16 @@ Quick start option:
 # Time Table Page
 
 [![Teacher Time Table](teachercode/src/assets/github/timetable-teacher.png)](https://mainpageempower.netlify.app/)
+
+# Email Sender 
+
+[![Teacher Time Table](https://github.com/Tejas1510/EmPower/blob/master/teachercode/src/assets/img/emailsender.png)](https://mainpageempower.netlify.app/)
+
+# Live Chat Feature using Socket.io and Nodejs
+
+[![Teacher Time Table](https://github.com/Tejas1510/EmPower/blob/master/teachercode/src/assets/img/chat1.png)](https://mainpageempower.netlify.app/)
+
+[![Teacher Time Table](https://github.com/Tejas1510/EmPower/blob/master/teachercode/src/assets/img/chat2.png)](https://mainpageempower.netlify.app/)
 
 ###
 

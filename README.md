@@ -1,3 +1,5 @@
+![EmPower](https://socialify.git.ci/Tejas1510/EmPower/image?description=1&descriptionEditable=An%20online%20tool%20that%20empowers%20educataion%20and%20with%20the%20motto%20%22Education%20for%20All%22.&font=Inter&language=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
+
 ## [App Live here](https://mainpageempower.netlify.app/)
 
 ## [Live Demo Video](https://youtu.be/T7amNQxGk4E)
@@ -62,7 +64,7 @@ Quick start option:
 
 # Inside Class
 
-[![Teacher Inside Class](https://github.com/Tejas1510/EmPower/blob/master/teachercode/src/assets/img/maininsideclass.png)](https://mainpageempower.netlify.app/)
+[![Teacher Home Page](https://github.com/Tejas1510/EmPower/blob/master/teachercode/src/assets/img/maininclass.png)](https://mainpageempower.netlify.app/)
 
 # Profile Page
 

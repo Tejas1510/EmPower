@@ -1,4 +1,4 @@
-![EmPower](https://socialify.git.ci/Tejas1510/EmPower/image?description=1&descriptionEditable=An%20online%20tool%20that%20empowers%20educataion%20and%20with%20the%20motto%20%22Education%20for%20All%22.&font=Inter&language=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
+![EmPower](https://socialify.git.ci/Tejas1510/EmPower/image?description=1&descriptionEditable=An%20online%20tool%20that%20empowers%20education%20and%20with%20the%20motto%20%22Education%20for%20All%22.&font=Inter&language=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
 
 ## [App Live here](https://mainpageempower.netlify.app/)
 
